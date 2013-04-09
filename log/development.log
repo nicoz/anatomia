@@ -3587,3 +3587,43 @@ Served asset /users.js - 304 Not Modified (0ms)
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-04-04 15:51:28 -0300
 Served asset /application.js - 304 Not Modified (1ms)
 Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-04-09 18:27:45 -0300
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (230.5ms)
+Compiled application.js  (260ms)  (pid 3386)
+Completed 200 OK in 1348ms (Views: 1103.4ms | ActiveRecord: 63.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-04-09 18:27:47 -0300
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-04-09 18:27:48 -0300
+Served asset /jquery.js - 304 Not Modified (17ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-04-09 18:27:48 -0300
+Served asset /application.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-04-09 18:27:48 -0300
+Served asset /users.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-04-09 18:27:48 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-04-09 18:27:48 -0300
+Served asset /users.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2013-04-09 18:27:48 -0300
+Served asset /sessions.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2013-04-09 18:27:48 -0300
+Served asset /sessions.js - 304 Not Modified (3ms)
